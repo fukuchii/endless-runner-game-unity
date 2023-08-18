@@ -6,4 +6,4 @@ I created three versions of this game:
   2. Non-firebase version (covid-runner-nofirebase folder), where theres no online leaderboard and no account is needed to play.
   3. WEBGL version (Build, TemplateData, index.html) that can be accessed through this link: https://rdiazjr.github.io/endless-runner-game-unity/.
 
-Access the user profile management <i href= https://endless-runnergame.000webhostapp.com/>here</i>
+Access the user profile management <a href= https://endless-runnergame.000webhostapp.com/>here</a>
